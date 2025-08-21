@@ -2,3 +2,13 @@
 node_modules
 .tmp
 npm-debug.log
+*
+!*/
+!*.cpp
+!*.hpp
+!*.h
+!*.c
+!*.cc
+!*.hh
+!*.txt
+!*.md
